@@ -1,0 +1,9 @@
+[package]
+name = "petgraph-color"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+petgraph = "0.6"
+based = { git = "https://github.com/s1gtrap/based" }
